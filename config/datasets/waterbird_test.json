@@ -1,0 +1,12 @@
+{
+  "lc_type": "finetuned_classifier",
+  "lc_model_path": "models/waterbird_erm_resnet50/best_model.pth",
+  "output_key": null,
+  "rep_layer": "avgpool",
+  "postcondition": null,
+  "target_class_source": "metadata:true_class",
+  "classifier_name": null,
+  "images_dir": "data/waterbird_test/images",
+  "metadata_csv": "data/waterbird_test/metadata.csv",
+  "raw_image_size": [256, 256]
+}

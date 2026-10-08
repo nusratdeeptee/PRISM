@@ -1,0 +1,15 @@
+{
+  "lc_type": "imagenet_classifier",
+  "lc_model_path": null,
+  "output_key": null,
+  "rep_layer": "avgpool",
+  "postcondition": null,
+  "target_class_source": "metadata:expected_class",
+  "classifier_name": "wide_resnet50_2",
+  "images_dir": "data/mimicry_0/images",
+  "metadata_csv": "data/mimicry_0/metadata.csv",
+  "raw_image_size": [
+    224,
+    224
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "lc_type": "finetuned_classifier",
+  "lc_model_path": "output/model_repair/DISC/CUB/ERM/reweight_groups=0-augment=0-lr=0.001-batch_size=32-n_epochs=300-seed=1/best_model.pth",
+  "output_key": null,
+  "rep_layer": "avgpool",
+  "postcondition": null,
+  "target_class_source": "metadata:true_class",
+  "classifier_name": null,
+  "images_dir": "data/waterbird_val/images",
+  "metadata_csv": "data/waterbird_val_s1/metadata.csv",
+  "raw_image_size": [
+    256,
+    256
+  ]
+}

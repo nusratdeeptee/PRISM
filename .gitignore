@@ -8,3 +8,4 @@ venv/
 .git.bak/
 src/third_party/EP-DNN-testing/smoke_test/
 .env
+config_github_staging/

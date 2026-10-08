@@ -1,0 +1,6 @@
+{
+  "_comment": "PRISM feature name -> existing DISC concept-bank folder name, ONLY where the PRISM name differs from the bank folder. Any name not listed here resolves by the default rule: lowercase, spaces -> underscores (e.g. 'remote control' -> remote_control). PRISM concept lists keep the original PRISM names; this map is applied only when building metadata.json categories.",
+  "flowers": "flower",
+  "man": "male_face",
+  "woman": "female_face"
+}

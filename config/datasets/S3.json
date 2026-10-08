@@ -1,0 +1,11 @@
+{
+  "lc_type": "sgsm_resnet34",
+  "lc_model_path": "models/driving_model.ckpt",
+  "output_key": "acceleration_continuous",
+  "rep_layer": "resnet34",
+  "postcondition": {"operator": ">", "threshold": -0.25},
+  "target_class_source": "fixed:0",
+  "classifier_name": null,
+  "images_dir": "data/S3/images",
+  "metadata_csv": "data/S3/metadata_sample_gen.csv"
+}

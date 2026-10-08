@@ -1,0 +1,13 @@
+{
+  "lc_type": "finetuned_classifier",
+  "lc_model_path": "output/model_repair/DISC/ISIC/ERM/reweight_groups=0-augment=0-lr=0.001-batch_size=16-n_epochs=100-trapset_id=3/best_model.pth",
+  "output_key": null,
+  "rep_layer": "avgpool",
+  "postcondition": null,
+  "target_class_source": "metadata:true_class",
+  "classifier_name": null,
+  "preprocess": "square_resize_224",
+  "images_dir": "data/isic_val_trapset3/images",
+  "metadata_csv": "data/isic_val_trapset3/metadata.csv",
+  "raw_image_size": [224, 224]
+}

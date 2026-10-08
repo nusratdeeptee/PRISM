@@ -1,0 +1,11 @@
+{
+  "lc_type": "imagenet_classifier",
+  "lc_model_path": null,
+  "output_key": null,
+  "rep_layer": "avgpool",
+  "postcondition": null,
+  "target_class_source": "metadata:expected_class",
+  "classifier_name": "wide_resnet50_2",
+  "images_dir": "data/genai_tigs_biggan_7/images",
+  "metadata_csv": "data/genai_tigs_biggan_7/metadata.csv"
+}

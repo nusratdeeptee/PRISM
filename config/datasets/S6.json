@@ -1,0 +1,11 @@
+{
+  "lc_type": "sgsm_resnet34",
+  "lc_model_path": "models/driving_model.ckpt",
+  "output_key": "steering_angle",
+  "rep_layer": "resnet34",
+  "postcondition": {"operator": "<", "threshold": 0.07},
+  "target_class_source": "fixed:0",
+  "classifier_name": null,
+  "images_dir": "data/S6/images",
+  "metadata_csv": "data/S6/metadata_sample_gen.csv"
+}

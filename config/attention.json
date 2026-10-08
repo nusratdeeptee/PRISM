@@ -1,0 +1,10 @@
+{
+  "qwen_model": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "grounding_dino_model": "IDEA-Research/grounding-dino-base",
+  "sam2_model": "facebook/sam2.1-hiera-large",
+  "box_threshold": 0.30,
+  "text_threshold": 0.25,
+  "max_tags": 40,
+  "ig2": {"steps": 201, "step_size": 1024.0, "n_references": 5},
+  "idg": {"steps": 50, "batch_size": 50}
+}

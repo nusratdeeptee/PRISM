@@ -1,0 +1,16 @@
+{
+  "lc_type": "finetuned_classifier",
+  "lc_model_path": "models/celeba_erm_seed1/best_model.pth",
+  "output_key": null,
+  "rep_layer": "avgpool",
+  "postcondition": null,
+  "target_class_source": "metadata:true_class",
+  "classifier_name": null,
+  "preprocess": "short_side_256_crop_224",
+  "images_dir": "data/celeba_val/images",
+  "metadata_csv": "data/celeba_val_sagawa_s1/metadata.csv",
+  "raw_image_size": [
+    224,
+    224
+  ]
+}

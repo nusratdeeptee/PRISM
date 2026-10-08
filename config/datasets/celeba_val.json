@@ -1,0 +1,13 @@
+{
+  "lc_type": "finetuned_classifier",
+  "lc_model_path": "output/model_repair/B2T/celeba/erm_resnet50_lr_1e-5_wd_1e-1_epoch_50_seed_0/epoch_18.pth",
+  "output_key": null,
+  "rep_layer": "avgpool",
+  "postcondition": null,
+  "target_class_source": "metadata:true_class",
+  "classifier_name": null,
+  "preprocess": "short_side_256_crop_224",
+  "images_dir": "data/celeba_val/images",
+  "metadata_csv": "data/celeba_val/metadata.csv",
+  "raw_image_size": [224, 224]
+}
