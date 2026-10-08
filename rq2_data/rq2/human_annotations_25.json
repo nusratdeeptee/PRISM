@@ -1,0 +1,2292 @@
+{
+ "s1|idg|annotator1": {
+  "195.png": [
+   "vehicle in front",
+   "double lane line",
+   "side walk at intersection",
+   "vehicle in adjacent lane",
+   "adjacent lane"
+  ],
+  "199.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "double lane line",
+   "adjacent lanes"
+  ],
+  "266.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "lane lines",
+   "sidewalk",
+   "adjacent lane lines"
+  ],
+  "268.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "lane lines",
+   "adjacent lanes",
+   "adjacent lane lines"
+  ],
+  "276.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lane lines",
+   "sidewalk"
+  ],
+  "336.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lanes"
+  ],
+  "364.png": [
+   "vehicle in front",
+   "double lane line",
+   "lane in front and close",
+   "adjacent lane lines"
+  ],
+  "375.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lanes"
+  ],
+  "382.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lanes"
+  ],
+  "402.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lanes"
+  ],
+  "409.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "lamp post base",
+   "adjacent lane lines",
+   "sidewalk"
+  ],
+  "420.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "double lane line",
+   "adjacent lanes"
+  ],
+  "457.png": [
+   "vehicle in front",
+   "double lane line",
+   "adjacent lanes",
+   "adjacent lane lines",
+   "sidewalk"
+  ],
+  "499.png": [
+   "lane in front and close",
+   "adjacent lane",
+   "double lane line",
+   "adjacent vehic",
+   "adjacent lane"
+  ],
+  "505.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "double lane line",
+   "adjacent lane",
+   "adjacent lane lines"
+  ],
+  "51.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "double lane line",
+   "adjacent lane lines",
+   "adjacent lanes"
+  ],
+  "713.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lanes"
+  ],
+  "756.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lanes"
+  ],
+  "78.png": [
+   "lane in front and close",
+   "double lane line",
+   "vehicle in front",
+   "fence",
+   "building",
+   "adjacent lane lines",
+   "sidewalk 5"
+  ],
+  "879.png": [
+   "lane in front and close",
+   "double lane line",
+   "adjacent lane lines",
+   "sidewalk",
+   "adjacent lane"
+  ],
+  "885.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "double lane line",
+   "adjacent lane lines",
+   "adjacent lane"
+  ],
+  "904.png": [
+   "lane in front and close",
+   "adjacent lane lines",
+   "double lane line",
+   "sidewalk",
+   "adjacent lane"
+  ],
+  "921.png": [
+   "vehicle in front",
+   "double lane line",
+   "lane in front and close",
+   "adjacent lane lines",
+   "adjacent lane"
+  ],
+  "972.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lane"
+  ]
+ },
+ "s1|idg|annotator2": {
+  "195.png": [
+   "car infront",
+   "road",
+   "car in side lane",
+   "mountain",
+   "trees"
+  ],
+  "199.png": [
+   "road",
+   "car infront"
+  ],
+  "266.png": [
+   "road",
+   "car infront",
+   "streetlight",
+   "pavilion",
+   "trees",
+   "building",
+   "traffic light"
+  ],
+  "268.png": [
+   "road",
+   "car infront",
+   "mountain"
+  ],
+  "276.png": [
+   "road",
+   "car infront",
+   "trees",
+   "mountain",
+   "pavilion",
+   "building",
+   "traffic light"
+  ],
+  "336.png": [
+   "road",
+   "car infront"
+  ],
+  "364.png": [
+   "car infront",
+   "road",
+   "trees",
+   "sidewalk"
+  ],
+  "375.png": [
+   "road",
+   "car infront",
+   "traffic light",
+   "sidewalk",
+   "car in the side lane",
+   "sky"
+  ],
+  "382.png": [
+   "road",
+   "car infront",
+   "sky",
+   "trees",
+   "traffic light"
+  ],
+  "402.png": [
+   "road",
+   "car infront",
+   "sky",
+   "sidewalk"
+  ],
+  "409.png": [
+   "road",
+   "car infront",
+   "sidewalk",
+   "trees",
+   "building",
+   "streetlamp",
+   "pavilion",
+   "bush",
+   "traffic light"
+  ],
+  "420.png": [
+   "road",
+   "car infront",
+   "sidewalk",
+   "trees",
+   "traffic light"
+  ],
+  "457.png": [
+   "car infront",
+   "road",
+   "car ahead of the car infront",
+   "car in the side lane",
+   "sidewalk",
+   "building",
+   "trees",
+   "bench",
+   "traffic light",
+   "sky"
+  ],
+  "499.png": [
+   "road",
+   "car infront",
+   "car in the side lane",
+   "sidewalk",
+   "sky"
+  ],
+  "505.png": [
+   "car infront",
+   "road",
+   "car in the side lane",
+   "trees",
+   "traffic light",
+   "sidewalk",
+   "sky"
+  ],
+  "51.png": [
+   "car infront",
+   "road",
+   "mountain",
+   "trees",
+   "traffic light",
+   "sidewalk",
+   "streetlamp",
+   "fence",
+   "building"
+  ],
+  "713.png": [
+   "road",
+   "car infront",
+   "traffic light",
+   "trees",
+   "pavilion",
+   "sidewalk"
+  ],
+  "756.png": [
+   "car infront",
+   "road",
+   "car",
+   "trees",
+   "traffic light",
+   "sky"
+  ],
+  "78.png": [
+   "road",
+   "car infront",
+   "building",
+   "fence",
+   "mountain",
+   "traffic light",
+   "streetlamp",
+   "pavilion",
+   "trees",
+   "sidewalk",
+   "sky",
+   "boundary"
+  ],
+  "879.png": [
+   "road",
+   "car infront",
+   "pavilion",
+   "building",
+   "trees",
+   "traffic light",
+   "bush",
+   "mountain",
+   "strretlamp"
+  ],
+  "885.png": [
+   "car infront",
+   "road",
+   "mountain",
+   "pavilion",
+   "sidewalk"
+  ],
+  "904.png": [
+   "road",
+   "sidewalk",
+   "car infront",
+   "pavilion",
+   "person",
+   "building",
+   "trees",
+   "bush",
+   "traffic light",
+   "sky"
+  ],
+  "921.png": [
+   "road",
+   "car infront",
+   "sidewalk",
+   "trees"
+  ],
+  "972.png": [
+   "road",
+   "car infront",
+   "sidewalk",
+   "sky"
+  ]
+ },
+ "s1|ig2|annotator1": {
+  "972.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lane"
+  ],
+  "921.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lane",
+   "sky"
+  ],
+  "904.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lane"
+  ],
+  "885.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lane"
+  ],
+  "879.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "building",
+   "adjacent lane",
+   "sky"
+  ],
+  "78.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane",
+   "sky"
+  ],
+  "756.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane"
+  ],
+  "713.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane"
+  ],
+  "51.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane"
+  ],
+  "505.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane"
+  ],
+  "499.png": [
+   "lane in front and close",
+   "adjacent vehicle",
+   "adjacent lane"
+  ],
+  "457.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane"
+  ],
+  "420.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane"
+  ],
+  "409.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane",
+   "sky"
+  ],
+  "402.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lane"
+  ],
+  "382.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lane"
+  ],
+  "375.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane"
+  ],
+  "364.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane"
+  ],
+  "336.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane"
+  ],
+  "276.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane"
+  ],
+  "268.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "adjacent lane"
+  ],
+  "266.png": [
+   "vehicle in front",
+   "lane in front and close",
+   "sky",
+   "adjacent lane"
+  ],
+  "199.png": [
+   "lane in front and close",
+   "vehicle in front",
+   "adjacent lane"
+  ],
+  "195.png": [
+   "vehicle in front",
+   "adjacent lane",
+   "sky"
+  ],
+  "170.png": [
+   "lane in front and close",
+   "adjacent lane",
+   "vehicle in front"
+  ]
+ },
+ "s1|ig2|annotator2": {
+  "972.png": [
+   "road",
+   "car infront",
+   "sky"
+  ],
+  "921.png": [
+   "road",
+   "car infront",
+   "mountain",
+   "traffic light",
+   "sky"
+  ],
+  "904.png": [
+   "car infront",
+   "road",
+   "trees",
+   "traffic light",
+   "sky",
+   "pavilion",
+   "streetlamp",
+   "sidewalk"
+  ],
+  "885.png": [
+   "car infront",
+   "road",
+   "traffic light",
+   "sky",
+   "mountain"
+  ],
+  "879.png": [
+   "car infront",
+   "road",
+   "traffic light",
+   "trees",
+   "building",
+   "sky",
+   "sidewalk"
+  ],
+  "78.png": [
+   "car infront",
+   "road",
+   "mountain",
+   "trees",
+   "traffic light",
+   "streetlamp",
+   "building",
+   "fence"
+  ],
+  "756.png": [
+   "car infront",
+   "road",
+   "mountain",
+   "trees",
+   "sky"
+  ],
+  "713.png": [
+   "car infront",
+   "road",
+   "sky",
+   "sidewalk"
+  ],
+  "51.png": [
+   "car infront",
+   "road",
+   "trees",
+   "mountain",
+   "sky"
+  ],
+  "505.png": [
+   "car infront",
+   "road",
+   "sky",
+   "mountain"
+  ],
+  "499.png": [
+   "road",
+   "car infront",
+   "car in the side lane",
+   "sky"
+  ],
+  "457.png": [
+   "car infront",
+   "road",
+   "traffic light",
+   "trees",
+   "car ahead of the car infront"
+  ],
+  "420.png": [
+   "road",
+   "car infront",
+   "sky",
+   "sidewalk"
+  ],
+  "409.png": [
+   "car infront",
+   "road",
+   "mountain",
+   "trees",
+   "traffic light",
+   "sky",
+   "sidewalk"
+  ],
+  "402.png": [
+   "road",
+   "car infront",
+   "sky"
+  ],
+  "382.png": [
+   "road",
+   "car infront",
+   "sky",
+   "mountain"
+  ],
+  "375.png": [
+   "road",
+   "car infront",
+   "sky"
+  ],
+  "364.png": [
+   "car infront",
+   "road",
+   "mountain",
+   "fence",
+   "car in the side lane"
+  ],
+  "336.png": [
+   "car infront",
+   "road",
+   "trees",
+   "car in the side lane",
+   "mountain",
+   "traffic light",
+   "sky"
+  ],
+  "276.png": [
+   "road",
+   "car infront",
+   "mountain",
+   "car in the side lane",
+   "fence",
+   "sky"
+  ],
+  "268.png": [
+   "car infront",
+   "road",
+   "traffic light",
+   "sidewalk",
+   "sky",
+   "mountain"
+  ],
+  "266.png": [
+   "car infront",
+   "road",
+   "mountain",
+   "trees",
+   "traffic light",
+   "streetlamp",
+   "sky",
+   "sidewalk",
+   "building"
+  ],
+  "199.png": [
+   "road",
+   "car infront",
+   "sky"
+  ],
+  "195.png": [
+   "car infront",
+   "road",
+   "sky",
+   "car in the side lane",
+   "mountain",
+   "sidewalk",
+   "fence"
+  ],
+  "170.png": [
+   "car infront",
+   "road",
+   "mountain",
+   "sky"
+  ]
+ },
+ "s2|idg|annotator1": {
+  "901.png": [
+   "lane in front",
+   "traffic light",
+   "sidewalk",
+   "adjacent lane"
+  ],
+  "879.png": [
+   "lane in front",
+   "traffic light",
+   "tree",
+   "adjacent lane"
+  ],
+  "837.png": [
+   "lane in front",
+   "adjacent lane",
+   "traffic light"
+  ],
+  "822.png": [
+   "lane in front",
+   "adjacent lane",
+   "traffic light"
+  ],
+  "815.png": [
+   "traffic light",
+   "lane in front",
+   "adjacent lane"
+  ],
+  "784.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane"
+  ],
+  "732.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "715.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "671.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "592.png": [
+   "lane in front",
+   "traffic light",
+   "building",
+   "adjacent lane"
+  ],
+  "553.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane"
+  ],
+  "492.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "487.png": [
+   "traffic light",
+   "lane in front",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "481.png": [
+   "traffic light",
+   "lane in front",
+   "adjacent lane"
+  ],
+  "473.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "442.png": [
+   "traffic light",
+   "lane in front",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "41.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane"
+  ],
+  "347.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "335.png": [
+   "traffic light",
+   "lane in front",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "276.png": [
+   "traffic light",
+   "lane in front",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "275.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane"
+  ],
+  "246.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane"
+  ],
+  "223.png": [
+   "lane in front",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "161.png": [
+   "lane in front",
+   "traffic light",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "125.png": [
+   "traffic light",
+   "lane in front",
+   "sidewalk"
+  ]
+ },
+ "s2|idg|annotator2": {
+  "901.png": [
+   "road",
+   "traffic light",
+   "mountain",
+   "car",
+   "sidewalk",
+   "trees",
+   "building",
+   "bridge"
+  ],
+  "879.png": [
+   "traffic light",
+   "sky",
+   "road",
+   "pavilion",
+   "streetlamp",
+   "building",
+   "sidewalk",
+   "trees"
+  ],
+  "837.png": [
+   "road",
+   "traffic light",
+   "sky",
+   "streetlamp",
+   "building",
+   "car"
+  ],
+  "822.png": [
+   "road",
+   "sky",
+   "traffic light",
+   "trees",
+   "mountain",
+   "building",
+   "sidewalk",
+   "car",
+   "grass"
+  ],
+  "815.png": [
+   "sky",
+   "traffic light",
+   "road",
+   "building",
+   "sidewalk"
+  ],
+  "784.png": [
+   "road",
+   "traffic light",
+   "sky",
+   "mountain",
+   "building",
+   "trees",
+   "car",
+   "sidewalk"
+  ],
+  "732.png": [
+   "road",
+   "traffic light",
+   "mountain",
+   "sky",
+   "building",
+   "bridge",
+   "trees",
+   "bush",
+   "sidewalk",
+   "car",
+   "people",
+   "umbrella"
+  ],
+  "715.png": [
+   "road",
+   "traffic light",
+   "sky",
+   "car",
+   "trees",
+   "fence",
+   "bush"
+  ],
+  "671.png": [
+   "road",
+   "traffic light",
+   "sky",
+   "mountain",
+   "sidewalk",
+   "trees"
+  ],
+  "592.png": [
+   "traffic light",
+   "sky",
+   "road",
+   "building",
+   "trees",
+   "bush",
+   "sidewalk",
+   "car"
+  ],
+  "553.png": [
+   "road",
+   "people",
+   "traffic light",
+   "sky",
+   "streetlamp",
+   "trees",
+   "bridge",
+   "sidewalk"
+  ],
+  "492.png": [
+   "traffic light",
+   "road",
+   "sky",
+   "mountain",
+   "building",
+   "trees",
+   "sidewalk",
+   "trash bin"
+  ],
+  "487.png": [
+   "traffic light",
+   "road",
+   "sky",
+   "mountain",
+   "building",
+   "sidewalk",
+   "car",
+   "bridge"
+  ],
+  "481.png": [
+   "traffic light",
+   "sky",
+   "road",
+   "building",
+   "trees",
+   "fence",
+   "bush",
+   "car",
+   "sidewalk"
+  ],
+  "473.png": [
+   "road",
+   "traffic light",
+   "sky",
+   "car",
+   "pavilion",
+   "sidewalk",
+   "bush"
+  ],
+  "442.png": [
+   "traffic light",
+   "road",
+   "sky",
+   "building",
+   "sidewalk",
+   "trees"
+  ],
+  "41.png": [
+   "traffic light",
+   "building",
+   "road",
+   "sky",
+   "sidewalk",
+   "car"
+  ],
+  "347.png": [
+   "road",
+   "traffic light",
+   "sky",
+   "car",
+   "trees",
+   "sidewalk",
+   "building"
+  ],
+  "335.png": [
+   "traffic light",
+   "sky",
+   "mountain",
+   "road",
+   "trees",
+   "building",
+   "sidewalk"
+  ],
+  "276.png": [
+   "traffic light",
+   "sky",
+   "road",
+   "car",
+   "mountain",
+   "building",
+   "sidewalk"
+  ],
+  "275.png": [
+   "road",
+   "traffic light",
+   "sky",
+   "building",
+   "trees",
+   "sidewalk"
+  ],
+  "246.png": [
+   "road",
+   "traffic light",
+   "sky",
+   "mountain",
+   "building",
+   "car",
+   "sidewalk"
+  ],
+  "223.png": [
+   "road",
+   "car",
+   "sidewalk",
+   "trees",
+   "sky",
+   "traffic light",
+   "bush"
+  ],
+  "161.png": [
+   "traffic light",
+   "sky",
+   "road",
+   "trees",
+   "building",
+   "sidewalk",
+   "bench"
+  ],
+  "125.png": [
+   "traffic light",
+   "sky",
+   "road",
+   "trees",
+   "building",
+   "sidewalk",
+   "car",
+   "people"
+  ]
+ },
+ "s2|ig2|annotator1": {
+  "901.png": [
+   "traffic light",
+   "road in front",
+   "adjacent lane"
+  ],
+  "879.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "837.png": [
+   "traffic light",
+   "road in front",
+   "adjacent lane"
+  ],
+  "822.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "815.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "784.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "732.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "715.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "671.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "592.png": [
+   "traffic light",
+   "road in front",
+   "sidewalk"
+  ],
+  "553.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "492.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "487.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "481.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "473.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "442.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "41.png": [
+   "traffic light",
+   "road in front",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "347.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "335.png": [
+   "traffic light"
+  ],
+  "276.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "275.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "246.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "223.png": [
+   "traffic light",
+   "road in front",
+   "adjacent lane",
+   "sidewalk"
+  ],
+  "161.png": [
+   "traffic light",
+   "road in front"
+  ],
+  "125.png": [
+   "traffic light",
+   "road in front"
+  ]
+ },
+ "s2|ig2|annotator2": {
+  "901.png": [
+   "traffic light",
+   "mountain",
+   "sky",
+   "car",
+   "road",
+   "trees",
+   "building",
+   "fence"
+  ],
+  "879.png": [
+   "traffic light",
+   "mountain",
+   "sky",
+   "trees",
+   "car",
+   "building",
+   "road"
+  ],
+  "837.png": [
+   "traffic light",
+   "building",
+   "sky",
+   "trees",
+   "road",
+   "car"
+  ],
+  "822.png": [
+   "traffic light",
+   "trees",
+   "sky",
+   "mountain",
+   "road",
+   "fence"
+  ],
+  "815.png": [
+   "traffic light",
+   "sky",
+   "bridge",
+   "trees",
+   "car",
+   "building",
+   "road"
+  ],
+  "784.png": [
+   "traffic light",
+   "sky",
+   "mountain",
+   "trees",
+   "road",
+   "building",
+   "sidewalk"
+  ],
+  "732.png": [
+   "traffic light",
+   "sky",
+   "mountain",
+   "bridge",
+   "car",
+   "trees",
+   "road"
+  ],
+  "715.png": [
+   "traffic light",
+   "sky",
+   "trees",
+   "car",
+   "building",
+   "road"
+  ],
+  "671.png": [
+   "traffic light",
+   "sky",
+   "trees",
+   "bridge",
+   "road",
+   "sidewalk"
+  ],
+  "592.png": [
+   "traffic light",
+   "building",
+   "sky",
+   "trees",
+   "bridge",
+   "bush",
+   "road",
+   "sidewalk"
+  ],
+  "553.png": [
+   "traffic light",
+   "sky",
+   "mountain",
+   "bridge",
+   "trees",
+   "people",
+   "road"
+  ],
+  "492.png": [
+   "traffic light",
+   "sky",
+   "building",
+   "mountain",
+   "trees",
+   "road",
+   "sidewalk"
+  ],
+  "487.png": [
+   "traffic light",
+   "building",
+   "sky",
+   "car",
+   "bridge",
+   "mountain",
+   "bush",
+   "sidewalk"
+  ],
+  "481.png": [
+   "traffic light",
+   "sky",
+   "building",
+   "trees",
+   "bridge",
+   "road",
+   "car"
+  ],
+  "473.png": [
+   "traffic light",
+   "trees",
+   "sky",
+   "road"
+  ],
+  "442.png": [
+   "traffic light",
+   "sky",
+   "mountain",
+   "trees",
+   "road",
+   "building"
+  ],
+  "41.png": [
+   "traffic light",
+   "mountain",
+   "sky",
+   "bridge",
+   "trees",
+   "road",
+   "car",
+   "traffic light post"
+  ],
+  "347.png": [
+   "traffic light",
+   "sky",
+   "mountain",
+   "trees",
+   "building",
+   "car",
+   "road"
+  ],
+  "335.png": [
+   "traffic light",
+   "sky",
+   "mountain",
+   "bridge",
+   "trees",
+   "road",
+   "building"
+  ],
+  "276.png": [
+   "traffic light",
+   "sky",
+   "mountain",
+   "car",
+   "road",
+   "trees",
+   "building"
+  ],
+  "275.png": [
+   "traffic light",
+   "sky",
+   "trees",
+   "road",
+   "building",
+   "car"
+  ],
+  "246.png": [
+   "traffic light",
+   "sky",
+   "mountain",
+   "bridge",
+   "building",
+   "road",
+   "car"
+  ],
+  "223.png": [
+   "traffic light",
+   "trees",
+   "sky",
+   "car",
+   "road",
+   "building",
+   "streetlamp",
+   "sidewalk",
+   "bush"
+  ],
+  "161.png": [
+   "traffic light",
+   "mountain",
+   "trees",
+   "sky",
+   "road",
+   "building"
+  ],
+  "125.png": [
+   "traffic light",
+   "sky",
+   "trees",
+   "road",
+   "car",
+   "building"
+  ]
+ },
+ "mimicry_5|idg|annotator1": {
+  "942.png": [
+   "sky",
+   "body",
+   "sand"
+  ],
+  "908.png": [
+   "sand",
+   "body"
+  ],
+  "859.png": [
+   "body",
+   "background"
+  ],
+  "825.png": [
+   "rocks",
+   "body"
+  ],
+  "811.png": [
+   "body",
+   "sand"
+  ],
+  "724.png": [
+   "sand",
+   "body"
+  ],
+  "707.png": [
+   "sand",
+   "background"
+  ],
+  "665.png": [
+   "sand",
+   "body"
+  ],
+  "663.png": [
+   "sand",
+   "body"
+  ],
+  "631.png": [
+   "body",
+   "sand"
+  ],
+  "578.png": [
+   "sand",
+   "body"
+  ],
+  "564.png": [
+   "rocks"
+  ],
+  "546.png": [
+   "sand",
+   "body"
+  ],
+  "494.png": [
+   "sand",
+   "body"
+  ],
+  "464.png": [
+   "body",
+   "sand"
+  ],
+  "383.png": [
+   "sand",
+   "body"
+  ],
+  "35.png": [
+   "rocks",
+   "body"
+  ],
+  "343.png": [
+   "rocks",
+   "out of focus"
+  ],
+  "329.png": [
+   "body"
+  ],
+  "320.png": [
+   "sand",
+   "body"
+  ],
+  "304.png": [
+   "out of focus",
+   "sand"
+  ],
+  "258.png": [
+   "body",
+   "rocks"
+  ],
+  "190.png": [
+   "out of focus",
+   "rocks",
+   "body"
+  ],
+  "123.png": [
+   "sand",
+   "body"
+  ],
+  "112.png": [
+   "sand",
+   "body"
+  ]
+ },
+ "mimicry_5|idg|annotator2": {
+  "811.png": [
+   "electric ray",
+   "ground"
+  ],
+  "825.png": [
+   "rock",
+   "fish"
+  ],
+  "859.png": [
+   "electric ray",
+   "unknown background",
+   "white fish"
+  ],
+  "908.png": [
+   "electric ray",
+   "white ground"
+  ],
+  "942.png": [
+   "animal",
+   "gray unknown background",
+   "rock"
+  ],
+  "724.png": [
+   "unknown background",
+   "electric ray"
+  ],
+  "707.png": [
+   "dark gray object",
+   "white ground",
+   "animal"
+  ],
+  "665.png": [
+   "electric ray",
+   "unknown background"
+  ],
+  "663.png": [
+   "electric ray",
+   "rock"
+  ],
+  "631.png": [
+   "electric ray",
+   "ground"
+  ],
+  "578.png": [
+   "electric ray",
+   "unknown background"
+  ],
+  "564.png": [
+   "white rock",
+   "unknown background"
+  ],
+  "546.png": [
+   "electric ray",
+   "ground"
+  ],
+  "494.png": [
+   "rock",
+   "fish"
+  ],
+  "464.png": [
+   "electric ray",
+   "ground"
+  ],
+  "383.png": [
+   "ground",
+   "electric ray",
+   "sand"
+  ],
+  "35.png": [
+   "rock",
+   "electric ray"
+  ],
+  "343.png": [
+   "unknown object",
+   "rock"
+  ],
+  "329.png": [
+   "fish"
+  ],
+  "320.png": [
+   "electric ray",
+   "ground"
+  ],
+  "304.png": [
+   "gray object",
+   "water"
+  ],
+  "258.png": [
+   "electric ray",
+   "rock"
+  ],
+  "190.png": [
+   "electric ray",
+   "rock",
+   "grass"
+  ],
+  "123.png": [
+   "electric ray",
+   "unknown background"
+  ],
+  "112.png": [
+   "ground",
+   "animal"
+  ]
+ },
+ "mimicry_5|ig2|annotator1": {
+  "942.png": [
+   "body",
+   "rocks"
+  ],
+  "908.png": [
+   "body",
+   "sand"
+  ],
+  "859.png": [
+   "body"
+  ],
+  "825.png": [
+   "rocks",
+   "body"
+  ],
+  "811.png": [
+   "body",
+   "rocks"
+  ],
+  "724.png": [
+   "sand",
+   "body"
+  ],
+  "707.png": [
+   "body",
+   "background"
+  ],
+  "665.png": [
+   "body",
+   "sand"
+  ],
+  "663.png": [
+   "body",
+   "sand"
+  ],
+  "631.png": [
+   "body",
+   "black background"
+  ],
+  "578.png": [
+   "body",
+   "sand"
+  ],
+  "564.png": [
+   "rocks"
+  ],
+  "546.png": [
+   "body",
+   "rocks"
+  ],
+  "494.png": [
+   "black background",
+   "body",
+   "rocks"
+  ],
+  "464.png": [
+   "body",
+   "sand"
+  ],
+  "383.png": [
+   "body",
+   "black background"
+  ],
+  "35.png": [
+   "body",
+   "white background",
+   "rocks"
+  ],
+  "343.png": [
+   "rocks",
+   "black background",
+   "duct tape"
+  ],
+  "329.png": [
+   "body",
+   "black background"
+  ],
+  "320.png": [
+   "body",
+   "sand"
+  ],
+  "304.png": [
+   "out of focus",
+   "rocks"
+  ],
+  "258.png": [
+   "body",
+   "black background"
+  ],
+  "190.png": [
+   "body",
+   "white background"
+  ],
+  "123.png": [
+   "body",
+   "black background"
+  ],
+  "112.png": [
+   "body",
+   "sand"
+  ]
+ },
+ "mimicry_5|ig2|annotator2": {
+  "329.png": [
+   "fish",
+   "black background"
+  ],
+  "343.png": [
+   "rock",
+   "unknown object"
+  ],
+  "35.png": [
+   "electric ray",
+   "rock"
+  ],
+  "383.png": [
+   "electric ray",
+   "black background",
+   "sand"
+  ],
+  "464.png": [
+   "electric ray",
+   "ground"
+  ],
+  "494.png": [
+   "rock",
+   "fish"
+  ],
+  "546.png": [
+   "electric ray",
+   "ground"
+  ],
+  "564.png": [
+   "white rock",
+   "unknown background"
+  ],
+  "578.png": [
+   "electric ray",
+   "ground"
+  ],
+  "631.png": [
+   "electric ray",
+   "ground"
+  ],
+  "663.png": [
+   "electric ray",
+   "rock"
+  ],
+  "665.png": [
+   "electric ray",
+   "ground"
+  ],
+  "707.png": [
+   "animal",
+   "dark gray object",
+   "white ground"
+  ],
+  "724.png": [
+   "electric ray",
+   "unknown background"
+  ],
+  "811.png": [
+   "electric ray",
+   "ground"
+  ],
+  "825.png": [
+   "fish",
+   "rock"
+  ],
+  "859.png": [
+   "electric ray",
+   "white fish",
+   "unknown background"
+  ],
+  "908.png": [
+   "electric ray",
+   "ground"
+  ],
+  "942.png": [
+   "animal",
+   "rock",
+   "gray unknown background"
+  ],
+  "320.png": [
+   "electric ray",
+   "ground"
+  ],
+  "304.png": [
+   "white object",
+   "gray object",
+   "water"
+  ],
+  "258.png": [
+   "electric ray",
+   "rock"
+  ],
+  "190.png": [
+   "electric ray",
+   "ground",
+   "white object",
+   "grass"
+  ],
+  "123.png": [
+   "electric ray",
+   "unknown object"
+  ],
+  "112.png": [
+   "animal",
+   "rock",
+   "ground"
+  ]
+ },
+ "waterbird_test|idg|annotator1": {
+  "972.png": [
+   "bird body",
+   "foliage"
+  ],
+  "854.png": [
+   "foliage",
+   "bird body"
+  ],
+  "706.png": [
+   "bird head",
+   "bird body"
+  ],
+  "666.png": [
+   "bird beak",
+   "white background"
+  ],
+  "5076.png": [
+   "bird body",
+   "ground"
+  ],
+  "5070.png": [
+   "bird body",
+   "sky"
+  ],
+  "4911.png": [
+   "bird body",
+   "sky"
+  ],
+  "4794.png": [
+   "bird body",
+   "water"
+  ],
+  "4490.png": [
+   "bird head",
+   "sky"
+  ],
+  "4427.png": [
+   "bird body",
+   "foliage"
+  ],
+  "4339.png": [
+   "bird body"
+  ],
+  "4313.png": [
+   "bird body",
+   "sky",
+   "oil rig"
+  ],
+  "3801.png": [
+   "bird body",
+   "foliage"
+  ],
+  "3789.png": [
+   "bird body",
+   "water",
+   "background bird"
+  ],
+  "3643.png": [
+   "bird body",
+   "foliage"
+  ],
+  "3561.png": [
+   "bird body",
+   "water",
+   "foliage"
+  ],
+  "3075.png": [
+   "water",
+   "foliage"
+  ],
+  "303.png": [
+   "bird body",
+   "foliage"
+  ],
+  "2776.png": [
+   "bird body"
+  ],
+  "2397.png": [
+   "bird body",
+   "foliage"
+  ],
+  "2335.png": [
+   "bird body",
+   "human face",
+   "foliage"
+  ],
+  "2298.png": [
+   "bird body",
+   "foliage"
+  ],
+  "1976.png": [
+   "bird body",
+   "sky",
+   "foliage"
+  ],
+  "1956.png": [
+   "bird body",
+   "water"
+  ],
+  "1540.png": [
+   "bird body",
+   "foliage"
+  ]
+ },
+ "waterbird_test|idg|annotator2": {
+  "3561.png": [
+   "bird",
+   "water",
+   "trees"
+  ],
+  "3643.png": [
+   "bird",
+   "trees",
+   "ground",
+   "grass"
+  ],
+  "3789.png": [
+   "bird",
+   "water",
+   "goose"
+  ],
+  "3801.png": [
+   "bird",
+   "bush",
+   "trees",
+   "water",
+   "house",
+   "flower",
+   "glass",
+   "fence"
+  ],
+  "4313.png": [
+   "bird",
+   "ship",
+   "sky",
+   "water"
+  ],
+  "4339.png": [
+   "bird",
+   "bamboo",
+   "trees"
+  ],
+  "4427.png": [
+   "bird",
+   "trees"
+  ],
+  "4490.png": [
+   "bird",
+   "sky",
+   "water",
+   "mountain"
+  ],
+  "4794.png": [
+   "bird",
+   "rock",
+   "water"
+  ],
+  "4911.png": [
+   "bird",
+   "bamboo",
+   "trees",
+   "branch"
+  ],
+  "5070.png": [
+   "bird",
+   "sky",
+   "water",
+   "mountain"
+  ],
+  "5076.png": [
+   "bird",
+   "trees",
+   "ground"
+  ],
+  "666.png": [
+   "bird",
+   "trees",
+   "mountain",
+   "ground"
+  ],
+  "706.png": [
+   "bird",
+   "white object",
+   "water"
+  ],
+  "854.png": [
+   "trees",
+   "bird",
+   "ground",
+   "leaves"
+  ],
+  "972.png": [
+   "bird",
+   "branch",
+   "leaves"
+  ],
+  "3075.png": [
+   "bird",
+   "fog",
+   "water",
+   "trees",
+   "sky"
+  ],
+  "303.png": [
+   "bird",
+   "grass",
+   "ground",
+   "trees"
+  ],
+  "2776.png": [
+   "bird",
+   "traps",
+   "ground",
+   "trees"
+  ],
+  "2397.png": [
+   "bird",
+   "branch",
+   "trees",
+   "grass"
+  ],
+  "2335.png": [
+   "bird",
+   "person",
+   "trees",
+   "sky"
+  ],
+  "2298.png": [
+   "bird",
+   "bamboo"
+  ],
+  "1976.png": [
+   "bird",
+   "sky",
+   "mountain",
+   "trees",
+   "water",
+   "person"
+  ],
+  "1956.png": [
+   "bird",
+   "water",
+   "writting"
+  ],
+  "1540.png": [
+   "bird",
+   "trees"
+  ]
+ },
+ "waterbird_test|ig2|annotator1": {
+  "972.png": [
+   "bird body",
+   "foliage"
+  ],
+  "854.png": [
+   "bird body",
+   "foliage"
+  ],
+  "706.png": [
+   "bird body",
+   "water",
+   "unknown background"
+  ],
+  "666.png": [
+   "bird body",
+   "fence",
+   "foliage"
+  ],
+  "5076.png": [
+   "bird body",
+   "foliage"
+  ],
+  "5070.png": [
+   "bird body",
+   "foliage",
+   "water",
+   "sky"
+  ],
+  "4911.png": [
+   "bird body",
+   "foliage"
+  ],
+  "4794.png": [
+   "bird body",
+   "rocks"
+  ],
+  "4490.png": [
+   "bird body",
+   "sky",
+   "water"
+  ],
+  "4427.png": [
+   "bird body",
+   "foliage"
+  ],
+  "4339.png": [
+   "bird body",
+   "foliage"
+  ],
+  "4313.png": [
+   "bird body",
+   "sky"
+  ],
+  "3801.png": [
+   "bird body",
+   "foliage"
+  ],
+  "3789.png": [
+   "bird body",
+   "background birds"
+  ],
+  "3643.png": [
+   "bird body",
+   "foliage"
+  ],
+  "3561.png": [
+   "bird body",
+   "foliage",
+   "water"
+  ],
+  "3075.png": [
+   "bird body",
+   "water"
+  ],
+  "303.png": [
+   "bird body",
+   "foliage"
+  ],
+  "2776.png": [
+   "bird body",
+   "foliage"
+  ],
+  "2397.png": [
+   "bird body",
+   "foliage"
+  ],
+  "2335.png": [
+   "bird body",
+   "human head",
+   "foliage"
+  ],
+  "2298.png": [
+   "bird body",
+   "foliage"
+  ],
+  "1976.png": [
+   "bird body",
+   "rocks",
+   "foliage"
+  ],
+  "1956.png": [
+   "bird body",
+   "foliage",
+   "water"
+  ],
+  "1540.png": [
+   "bird body",
+   "foliage"
+  ]
+ },
+ "waterbird_test|ig2|annotator2": {
+  "1540.png": [
+   "bird",
+   "leaves"
+  ],
+  "1956.png": [
+   "bird",
+   "ground",
+   "water"
+  ],
+  "1976.png": [
+   "bird",
+   "person",
+   "trees",
+   "rock",
+   "mountain",
+   "water"
+  ],
+  "2298.png": [
+   "bird",
+   "bamboo"
+  ],
+  "2335.png": [
+   "bird",
+   "bamboo",
+   "person"
+  ],
+  "2397.png": [
+   "bird",
+   "trees"
+  ],
+  "2776.png": [
+   "bird",
+   "trap",
+   "trees"
+  ],
+  "303.png": [
+   "bird",
+   "grass",
+   "ground",
+   "trees"
+  ],
+  "3075.png": [
+   "bird",
+   "fog",
+   "trees",
+   "water"
+  ],
+  "3561.png": [
+   "bird",
+   "water",
+   "trees"
+  ],
+  "3643.png": [
+   "bird",
+   "ground",
+   "grass",
+   "trees",
+   "sky"
+  ],
+  "3789.png": [
+   "bird",
+   "duck",
+   "water"
+  ],
+  "3801.png": [
+   "bird",
+   "house",
+   "fence",
+   "water",
+   "flower"
+  ],
+  "4313.png": [
+   "bird",
+   "sky",
+   "ship",
+   "water"
+  ],
+  "4339.png": [
+   "bird",
+   "bamboo"
+  ],
+  "4427.png": [
+   "bird",
+   "trees",
+   "mountain"
+  ],
+  "4490.png": [
+   "bird",
+   "sky",
+   "mountain",
+   "water"
+  ],
+  "4794.png": [
+   "bird",
+   "rock",
+   "water"
+  ],
+  "4911.png": [
+   "bird",
+   "bamboo",
+   "trees"
+  ],
+  "5070.png": [
+   "bird",
+   "mountain",
+   "leaves",
+   "grounds"
+  ],
+  "5076.png": [
+   "bird",
+   "trees",
+   "sky"
+  ],
+  "666.png": [
+   "bird",
+   "ground",
+   "trees"
+  ],
+  "706.png": [
+   "bird",
+   "white object",
+   "water"
+  ],
+  "854.png": [
+   "bird",
+   "trees",
+   "ground"
+  ],
+  "972.png": [
+   "bird",
+   "leaves"
+  ]
+ }
+}

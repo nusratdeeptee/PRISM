@@ -1,0 +1,140 @@
+{
+  "per_condition": [
+    {
+      "cond": "s1",
+      "method": "idg",
+      "images": 24,
+      "pairs": 216,
+      "kappa_claude_annotator1": 0.697,
+      "kappa_claude_annotator2": 0.493,
+      "kappa_annotator1_annotator2": 0.388,
+      "kappa_claude_union": 0.533,
+      "agree_claude_annotator1": 86.6,
+      "agree_claude_annotator2": 74.1,
+      "agree_annotator1_annotator2": 68.1
+    },
+    {
+      "cond": "s1",
+      "method": "ig2",
+      "images": 25,
+      "pairs": 225,
+      "kappa_claude_annotator1": 0.672,
+      "kappa_claude_annotator2": 0.452,
+      "kappa_annotator1_annotator2": 0.513,
+      "kappa_claude_union": 0.445,
+      "agree_claude_annotator1": 86.2,
+      "agree_claude_annotator2": 72.9,
+      "agree_annotator1_annotator2": 76.0
+    },
+    {
+      "cond": "s2",
+      "method": "idg",
+      "images": 25,
+      "pairs": 225,
+      "kappa_claude_annotator1": 0.193,
+      "kappa_claude_annotator2": 0.192,
+      "kappa_annotator1_annotator2": 0.289,
+      "kappa_claude_union": 0.199,
+      "agree_claude_annotator1": 52.9,
+      "agree_claude_annotator2": 65.8,
+      "agree_annotator1_annotator2": 58.7
+    },
+    {
+      "cond": "s2",
+      "method": "ig2",
+      "images": 25,
+      "pairs": 225,
+      "kappa_claude_annotator1": 0.283,
+      "kappa_claude_annotator2": 0.337,
+      "kappa_annotator1_annotator2": 0.277,
+      "kappa_claude_union": 0.337,
+      "agree_claude_annotator1": 63.6,
+      "agree_claude_annotator2": 67.1,
+      "agree_annotator1_annotator2": 59.1
+    },
+    {
+      "cond": "mimicry_5",
+      "method": "idg",
+      "images": 25,
+      "pairs": 125,
+      "kappa_claude_annotator1": 0.321,
+      "kappa_claude_annotator2": 0.37,
+      "kappa_annotator1_annotator2": 0.675,
+      "kappa_claude_union": 0.357,
+      "agree_claude_annotator1": 66.4,
+      "agree_claude_annotator2": 68.8,
+      "agree_annotator1_annotator2": 84.8
+    },
+    {
+      "cond": "mimicry_5",
+      "method": "ig2",
+      "images": 25,
+      "pairs": 125,
+      "kappa_claude_annotator1": 0.366,
+      "kappa_claude_annotator2": 0.173,
+      "kappa_annotator1_annotator2": 0.533,
+      "kappa_claude_union": 0.233,
+      "agree_claude_annotator1": 68.8,
+      "agree_claude_annotator2": 59.2,
+      "agree_annotator1_annotator2": 77.6
+    },
+    {
+      "cond": "waterbird_test",
+      "method": "idg",
+      "images": 25,
+      "pairs": 225,
+      "kappa_claude_annotator1": 0.706,
+      "kappa_claude_annotator2": 0.755,
+      "kappa_annotator1_annotator2": 0.743,
+      "kappa_claude_union": 0.745,
+      "agree_claude_annotator1": 89.8,
+      "agree_claude_annotator2": 90.2,
+      "agree_annotator1_annotator2": 89.8
+    },
+    {
+      "cond": "waterbird_test",
+      "method": "ig2",
+      "images": 25,
+      "pairs": 225,
+      "kappa_claude_annotator1": 0.678,
+      "kappa_claude_annotator2": 0.751,
+      "kappa_annotator1_annotator2": 0.77,
+      "kappa_claude_union": 0.746,
+      "agree_claude_annotator1": 87.6,
+      "agree_claude_annotator2": 89.8,
+      "agree_annotator1_annotator2": 90.7
+    }
+  ],
+  "pooled": {
+    "idg": {
+      "n_pairs": 791,
+      "kappa_claude_annotator1": 0.467,
+      "kappa_claude_annotator2": 0.509,
+      "kappa_annotator1_annotator2": 0.482,
+      "kappa_claude_union": 0.519,
+      "agree_claude_annotator1_pct": 74.7,
+      "agree_claude_annotator2_pct": 75.5,
+      "agree_annotator1_annotator2_pct": 74.2
+    },
+    "ig2": {
+      "n_pairs": 800,
+      "kappa_claude_annotator1": 0.498,
+      "kappa_claude_annotator2": 0.468,
+      "kappa_annotator1_annotator2": 0.494,
+      "kappa_claude_union": 0.477,
+      "agree_claude_annotator1_pct": 77.5,
+      "agree_claude_annotator2_pct": 73.9,
+      "agree_annotator1_annotator2_pct": 75.6
+    },
+    "all": {
+      "n_pairs": 1591,
+      "kappa_claude_annotator1": 0.482,
+      "kappa_claude_annotator2": 0.49,
+      "kappa_annotator1_annotator2": 0.488,
+      "kappa_claude_union": 0.499,
+      "agree_claude_annotator1_pct": 76.1,
+      "agree_claude_annotator2_pct": 74.7,
+      "agree_annotator1_annotator2_pct": 74.9
+    }
+  }
+}
