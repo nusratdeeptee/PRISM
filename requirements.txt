@@ -1,0 +1,15 @@
+transformers==5.5.3
+accelerate==1.11.0
+tokenizers==0.22.2
+safetensors==0.8.0
+qwen-vl-utils==0.0.14
+saliency==0.2.1
+numpy==1.26.4
+scipy==1.12.0
+scikit-learn==1.9.0
+shap==0.44.1
+nltk==3.10.3
+pillow==11.3.0
+matplotlib==3.10.1
+pandas==2.3.3
+anthropic==1.9.0

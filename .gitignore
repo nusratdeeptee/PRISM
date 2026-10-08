@@ -7,4 +7,4 @@ results/
 venv/
 .git.bak/
 src/third_party/EP-DNN-testing/smoke_test/
-src/.env
+.env
