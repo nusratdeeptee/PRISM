@@ -1,6 +1,6 @@
 {
   "lc_type": "finetuned_classifier",
-  "lc_model_path": "output/model_repair/DISC/MetaDatasetCatDog/ERM/reweight_groups=0-augment=0-lr=0.001-batch_size=16-n_epochs=100-seed=1/best_model.pth",
+  "lc_model_path": "models/metashift_erm_seed1/best_model.pth",
   "output_key": null,
   "rep_layer": "avgpool",
   "postcondition": null,

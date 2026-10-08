@@ -1,6 +1,6 @@
 {
   "lc_type": "finetuned_classifier",
-  "lc_model_path": "output/model_repair/B2T/celeba/erm_resnet50_lr_1e-5_wd_1e-1_epoch_50_seed_0/epoch_18.pth",
+  "lc_model_path": "models/celeba_erm_b2t_seed0/epoch_18.pth",
   "output_key": null,
   "rep_layer": "avgpool",
   "postcondition": null,
