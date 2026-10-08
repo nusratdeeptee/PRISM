@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/*/images/
+data/*/metadata.csv
+output/
+results/
+venv/
+.git.bak/
+src/third_party/EP-DNN-testing/smoke_test/
+src/.env
