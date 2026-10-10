@@ -105,3 +105,50 @@ output/         <dataset>/<model>/<stage>/ -- stage is segments, ig2, idg, analy
 results/        reserved for RQ-level graphs only (cross-dataset/cross-run comparison figures) --
                 separate from output/ above; see src/common/paths.py's RQ_RESULTS_DIR
 ```
+
+## Data Availability
+
+Due to the extensive size of the full experimental data, we are only able to
+make a subset publicly available: https://zenodo.org/records/23248457
+
+### Waterbirds
+
+| Seeds | DISC own concepts |
+|---|---|
+| 0, 1, 2 | bamboo, banded, beach, blackness, blotchy, blueness, blurriness, braided, bridge, bubbly, bumpy, bush, canopy, chequered, cobwebbed, concrete, cracked, crosshatched, crystalline, dotted, earth, fibrous, field, flecked, flower, flowerpot, fluorescent, forest, freckled, frilly, gauzy, granite, grass, greenness, grid, grooved, ground, harbor, hill, honeycombed, interlaced, knitted, lacelike, lake, laminate, leather, lined, marbled, matted, meshed, metal, mountain, muzzle, paisley, palm, path, perforated, pitted, plant, pleated, polka_dots, porous, potholed, redness, river, sand, scaly, sea, smeared, snow, spiralled, sprinkled, stained, stratified, stripes, studded, swirly, tree, veined, waffled, water, whiteness, woven, wrinkled, zigzagged |
+
+| Seed | DISC+PRISM | DISC+PRISM manually excluded | B2T own-discovered -- Land | B2T own-discovered -- Water | B2T+PRISM -- Land | B2T+PRISM -- Water |
+|---|---|---|---|---|---|---|
+| 0 | forest, leaves, branch, bamboo, flower, tree, grass, fish, water, mountain, seal, ship, house, rock, sky, person, boat, wave, lake, ocean, cloud | Unknown Background, bird, duck, hand, people, seagull | bamboo forest, bamboo, forest, woods, trees, garden, tree | seagull, beach, boat, water, lake, sunset, rocks | bamboo, forest, tree, branch | ocean, seal, wave, seagull, boat, ship, water, fish, duck |
+| 1 | sign, branch, bamboo, hand, building, leaves, fish, wing, mountain, rock, tree, sky, grass, flower, water, house, wave, ocean, seal, boat, ship, cloud, surfer | Unknown Background, bird, boat ship, duck, people, person, sailboat, seagull | bamboo forest, bamboo, forest, woods, trees, garden, tree | seagull, beach, boat, water, lake, fish | bamboo, tree, branch | ocean, sailboat, seal, seagull, surfer, wave, boat, boat ship, ship, water, fish |
+| 2 | leaves, bamboo, house, tree, building, grass, flower, person, rock, sky, female_face, water, ocean, ship, seal, hand, hat, pier, boat, wave, cloud | Unknown Background, bird, duck, head, people, seagull, woman | bamboo forest, bamboo, forest, woods, rainforest, trees, garden, tree | seagull, beach, water, sunset, lake, rocks | bamboo, tree | ocean, seagull, seal, wave, pier, boat, ship, water, clouds |
+
+### CelebA
+
+| Seed | B2T own-discovered | B2T+PRISM |
+|---|---|---|
+| 0 | *(none)* | man, man green shirt, man person |
+| 1 | man | man |
+| 2 | *(none)* | man, man person |
+
+### MetaShift
+
+| Seeds | DISC own concepts |
+|---|---|
+| 0, 1, 2 | air_conditioner, airplane, apron, arm, armchair, ashcan, awning, back, back_pillow, bag, balcony, bamboo, banded, bannister, base, basket, bathroom_s, bathtub, beach, beak, bed, bedclothes, bedroom_s, bench, bicycle, bird, blackness, blind, blotchy, blueness, blurriness, board, body, book, bookcase, bottle, bowl, box, braided, brick, bridge, bubbly, bucket, building, bumper, bumpy, bus, bush, cabinet, can, candlestick, canopy, cap, car, cardboard, carpet, cat, ceiling, ceramic, chain_wheel, chair, chandelier, chequered, chest_of_drawers, chimney, clock, coach, cobwebbed, coffee_table, column, computer, concrete, counter, countertop, cow, cracked, crosshatched, crystalline, cup, curtain, cushion, desk, dining_room_s, dog, door, door_frame, dotted, double_door, drawer, drinking_glass, ear, earth, engine, exhaust_hood, eye, eyebrow, fabric, fan, faucet, female_face, fence, fibrous, field, figurine, fireplace, flag, flecked, floor, flower, flowerpot, fluorescent, food, foot, footboard, forest, frame, freckled, frilly, gauzy, glass, granite, grass, greenness, grid, grooved, ground, hair, hand, handle, handle_bar, harbor, head, headboard, headlight, hill, honeycombed, horse, house, inside_arm, interlaced, jar, keyboard, knitted, knob, lacelike, lake, laminate, lamp, leather, leg, lid, light, lined, loudspeaker, male_face, manhole, marbled, matted, meshed, metal, microwave, minibike, mirror, motorbike, mountain, mouse, mouth, muzzle, napkin, neck, nose, ottoman, outside_arm, oven, pack, painted, painting, paisley, palm, pane, paper, path, paw, pedestal, perforated, person, pillar, pillow, pipe, pitted, plant, plate, pleated, polka_dots, porous, potholed, redness, refrigerator, river, sand, scaly, sea, smeared, snow, sofa, spiralled, sprinkled, stained, stairs, stratified, street_s, stripes, studded, swirly, toilet, tree, veined, waffled, water, whiteness, woven, wrinkled, zigzagged |
+
+| Seed | DISC+PRISM | DISC+PRISM manually excluded |
+|---|---|---|
+| 0 | bottle, laptop, person, wall, window, chair, mirror, bowl, keyboard, female_face, pillow, couch, toilet, remote_control, bookshelf, table, coffee_table, picture_frame, frisbee, curtain, desk, book, candle, wine_glass, vase | shelf |
+| 1 | laptop, bottle, person, table, shelf, wall, chair, bowl, pillow, couch, toilet, keyboard, remote_control, drawer, lamp, window, candle, mirror, female_face, bookshelf, frisbee, curtain, tile, coffee_table, book | desk |
+| 2 | laptop, table, coffee_table, chair, bottle, person, pillow, couch, male_face, toilet, keyboard, window, bowl, remote_control, mouse, picture_frame, wall, shelf, female_face, candle, desk, lamp, book, vase, curtain | *(none)* |
+
+### ISIC
+
+| Trap-set | DISC own concepts | DISC+PRISM | DISC+PRISM manually excluded |
+|---|---|---|---|
+| 1 | blurriness, braided, bubbly, chequered, concrete, crosshatched, flecked, granite, lacelike, laminate, matted, meshed, pleated, redness, scaly, studded, veined | bubbles, hair, ruler, water_droplet | skin, Unknown Background, water droplets, mole, stain, blood, bruise |
+| 2 | concrete, cracked, crystalline, fibrous, flecked, frilly, gauzy, granite, grid, marbled, paisley, pleated, potholed, spiralled, stained, stripes, swirly | bubbles, hair, line, ruler, skin, water_droplet | water droplets, Unknown Background, mole, background, bruise |
+| 3 | banded, braided, concrete, gauzy, grid, honeycombed, lacelike, marbled, matted, metal, paisley, pleated, porous, sprinkled, veined, waffled | bubbles, dirt, hair, line, petri_dish, ruler, skin, surface, water_droplet | Unknown Background, mole, water droplets, stain, blood spot, spot, skin mole |
+| 4 | blueness, braided, concrete, crosshatched, dotted, flecked, gauzy, granite, lacelike, laminate, marbled, redness, smeared, stained, swirly, whiteness | bubbles, hair, ruler, skin, water_droplet | Unknown Background, water droplets, bruise, stain, mole, skin mole, blood stain, blood spot, blood |
+| 5 | blurriness, cobwebbed, concrete, crosshatched, flecked, frilly, gauzy, lacelike, laminate, leather, paisley, smeared, stained, stripes, veined | bubbles, hair, plastic_container, ruler, skin, water_droplet | surface, blood spot, water droplets, stain, tumor, Unknown Background, mole, spot |
